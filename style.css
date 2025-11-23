@@ -152,6 +152,10 @@ body {
     border-radius: 10px;
 }
 
+.btn button:hover {
+    background: #970000; 
+}
+
 @media screen and (max-width: 1260px) {
     .products {
         display: flex;
